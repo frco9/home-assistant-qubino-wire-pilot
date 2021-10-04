@@ -1,1 +1,1 @@
-"""Qubino wire pilot platform configuration"""
+"""TPI Thermostat platform configuration"""
